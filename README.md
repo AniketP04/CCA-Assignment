@@ -9,3 +9,4 @@ This repository contains my solutions and assignments for the cloud computing co
 
 **Assignment No-2_B** Shell scripting (Shell scripting to demonstrate the following logic Decision Logic, Looping Logic, Decision and Looping Logic.)    ([link](https://github.com/AniketP04/CCA-Assignment/blob/main/CCA2_2.pdf))  
 
+**Assignment No-3** Deploy Web application on AWS Cloud    ([link](https://github.com/AniketP04/CCA-Assignment/blob/main/CCA_3.pdf))
